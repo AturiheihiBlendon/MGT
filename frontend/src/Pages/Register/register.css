@@ -1,0 +1,25 @@
+.register {
+    width: 360px;
+    height: min-content;
+    padding: 10px;
+    margin: auto;
+    margin-top: 100px;
+  }
+  .register h1 {
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 25px;
+  }
+    
+  .register form {
+    font-size: 16px;
+  }
+    
+  .register form .form-group {
+    margin-bottom: 5px;
+  }
+    
+  .register form input[type="submit"] {
+    font-size: 16px;
+    margin-top: 15px;
+  }
